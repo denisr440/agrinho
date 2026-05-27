@@ -89,64 +89,64 @@ function toggleTech(button) {
 // Dados do quiz
 const quizData = [
     {
-        pergunta: "O que é agricultura de precisão?",
+        pergunta: "O que é agricultura sustentável?",
         opcoes: [
-            "Aplicação localizada de insumos usando GPS",
-            "Plantio manual muito cuidadoso",
-            "Uso de muitos agroquímicos",
-            "Cultivo apenas em clima frio"
+            "Uma forma de poluir mais o meio ambiente",
+            "Um jeito de produzir alimentos preservando a natureza",
+            "Uma técnica de desperdiçar água",
+            "Um método de cortar todas as árvores"
         ],
-        resposta: 0
+        resposta: 2
     },
     {
-        pergunta: "Qual é o benefício principal dos drones na agricultura?",
+        pergunta: "Por que economizar água é importante na agricultura?",
         opcoes: [
-            "Substituir completamente os agricultores",
-            "Monitorar culturas e detectar pragas com câmeras especiais",
-            "Aumentar o preço dos produtos",
-            "Reduzir a qualidade das colheitas"
+            "Porque a água é um recurso natural importante",
+            "Porque a água não faz diferença nas plantações",
+            "Porque aumenta a poluição",
+            "Porque seca o solo mais rápido"
         ],
         resposta: 1
     },
     {
-        pergunta: "Como a IA ajuda no agronegócio?",
+        pergunta: "O que a agricultura sustentável procura evitar?",
         opcoes: [
-            "Apenas para decoração das fazendas",
-            "Análise preditiva de dados para otimizar plantio e irrigação",
-            "Para substituir os animais da fazenda",
-            "Não tem utilidade no campo"
+            "A preservação do solo",
+            "O desperdício e a poluição",
+            "O plantio de alimentos",
+            "O cuidado com a natureza"
         ],
-        resposta: 1
+        resposta: 2
     },
     {
-        pergunta: "Qual é o impacto dos sensores IoT na água?",
+        pergunta: "Qual é um benefício da agricultura sustentável?",
         opcoes: [
-            "Aumentam o consumo de água",
-            "Permitem irrigação precisa, economizando até 40% de água",
-            "Poluem a água do solo",
-            "Não têm relação com água"
+            "Destruição das florestas",
+            "Aumento da poluição",
+            "Produção de alimentos com menos impacto ambiental",
+            "Contaminação dos rios"
         ],
-        resposta: 1
+        resposta: 2
     },
     {
-        pergunta: "Por que a rotação de culturas é importante?",
+        pergunta: "O que pode ajudar a proteger o solo na agricultura sustentável?",
         opcoes: [
-            "Para confundir os insetos",
-            "Mantém a fertilidade do solo e reduz pragas naturalmente",
-            "Apenas para decoração visual",
-            "Não tem importância"
+            "Uso excessivo de agrotóxicos",
+            "Plantio sem cuidados",
+            "Cobertura vegetal e adubação natural",
+            "Queimadas constantes"
         ],
-        resposta: 1
+        resposta: 3
     },
     {
-        pergunta: "Qual é o objetivo do Agrinho?",
+        pergunta: "O que pode ajudar a proteger o solo na agricultura sustentável?",
         opcoes: [
-            "Incentivar o ensino de tecnologia e programação com foco em sustentabilidade agrícola",
-            "Vender produtos agrícolas",
-            "Apenas para diversão",
-            "Ensinar apenas matemática"
+            "Uso excessivo de agrotóxicos",
+            "Plantio sem cuidados",
+            "Cobertura vegetal e adubação natural",
+            "Queimadas constantes"
         ],
-        resposta: 0
+        resposta: 3
     }
 ];
 
